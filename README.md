@@ -6,14 +6,16 @@
   the web.
 </h4>
 
+
 <h2>GitHub Stats</h2>
 <details>
 <summary> 
 My Github Stats
 </summary>
 
-
+![Farooq's Github Stats](https://github-readme-stats.vercel.app/api?username=Farooq7234&show_icons=true&hide_title=true&count_private=true&theme=dark)
 </details>
+
 
 
 
