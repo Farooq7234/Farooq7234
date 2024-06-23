@@ -12,8 +12,6 @@
 My Github Stats
 </summary>
 
-![Sargam's Github Stats](https://github-readme-stats.vercel.app/api?username=devsargam&show_icons=true&hide_title=true&count_private=true&theme=dark)
-
 
 </details>
 
@@ -25,12 +23,16 @@ My Github Stats
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,django,nodejs,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,linux)](https://skillicons.dev)
+
+<h2>BaSS</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=appwrite,firebase)](https://skillicons.dev)
