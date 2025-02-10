@@ -25,16 +25,16 @@ My Github Stats
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=express,react,django,nodejs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,express,react,django,nodejs,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,vscode,git,linux)](https://skillicons.dev)
 
 <h2>BaSS</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=appwrite,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=appwrite)](https://skillicons.dev)
